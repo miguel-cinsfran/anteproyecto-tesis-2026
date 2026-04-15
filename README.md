@@ -1,14 +1,16 @@
-\# Anteproyecto de Tesis: Desarrollo de una Aplicación Móvil de Calistenia Accesible con Personalización de Rutinas Basada en Reglas para Personas con Discapacidad Visual (2026)
+\# Anteproyecto de Tesis (2026)
+
+Desarrollo de una Aplicación Móvil de Calistenia Accesible con Personalización de Rutinas Basada en Reglas para Personas con Discapacidad Visual
 
 
 
-\*\*Institución:\*\* Universidad Católica "Nuestra Señora de la Asunción"  
+\*\*Institución:\*\* Universidad Católica "Nuestra Señora de la Asunción"
 
-\*\*Carrera:\*\* Análisis de Sistemas Informáticos  
+\*\*Carrera:\*\* Análisis de Sistemas Informáticos
 
-\*\*Autor:\*\* Miguel Ángel Insfrán Caballero  
+\*\*Autor:\*\* Miguel Ángel Insfrán Caballero
 
-\*\*Tutor:\*\* Omar Esgaib Sánchez  
+\*\*Tutor:\*\* Omar Esgaib Sánchez
 
 
 
