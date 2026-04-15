@@ -1,4 +1,4 @@
-# Flujo de interacción del usuario con el sistema — generación, ejecución y progresión de rutinas de calistenia
+# Flujo de interacción del usuario con el programa
 
 ```mermaid
 flowchart TD

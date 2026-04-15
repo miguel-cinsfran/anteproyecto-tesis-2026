@@ -1,4 +1,4 @@
-# Arquitectura de módulos del sistema — aplicación móvil de calistenia accesible para personas con discapacidad visual
+# Arquitectura de módulos del sistema
 
 ```mermaid
 graph TD
