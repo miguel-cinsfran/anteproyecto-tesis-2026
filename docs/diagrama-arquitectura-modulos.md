@@ -1,4 +1,4 @@
-# Arquitectura de módulos del sistema
+# Esquema gráfico
 
 ```mermaid
 graph TD

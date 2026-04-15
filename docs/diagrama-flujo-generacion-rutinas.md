@@ -1,18 +1,18 @@
-# Flujo de interacción del usuario con el programa
+# Diagrama de Flujo
 
 ```mermaid
 flowchart TD
     A([Inicio]) --> B
 
     subgraph S1["Configuración inicial"]
-        B["Objetivo · disponibilidad semanal · limitaciones físicas"]
+        B["Objetivo · disponibilidad semanal · dolores reportados"]
         B --> C["Evaluación de nivel inicial
-        cuatro patrones de movimiento fundamentales
+        cuatro patrones de movimiento básicos
         sin referencias visuales"]
     end
 
     C --> D["Perfil almacenado localmente
-    objetivo · nivel · disponibilidad · limitaciones"]
+    objetivo · nivel · disponibilidad · dolores"]
 
     CAT["Catálogo de ejercicios
     descripciones propioceptivas:
@@ -24,7 +24,7 @@ flowchart TD
 
     subgraph S2["Motor de personalización — basado en reglas"]
         SEL["Seleccionar ejercicios según objetivo"]
-        SEL --> EXC["Excluir ejercicios incompatibles con limitaciones físicas"]
+        SEL --> EXC["Excluir ejercicios incompatibles con dolores reportados"]
         EXC --> AJU["Ajustar volumen e intensidad al nivel evaluado"]
         AJU --> DIS["Distribuir sesiones según disponibilidad semanal"]
     end
