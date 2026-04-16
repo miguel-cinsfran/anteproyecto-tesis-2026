@@ -6,9 +6,10 @@ En este repositorio estarán los esquemas y diagramas del anteproyecto, inicialm
 
 * [Ver Diagrama de Arquitectura de Módulos](docs/diagrama-arquitectura-modulos.md)
 
+## Anexo I
+
+* [Ver Cronograma en Diagrama de Gantt](docs/cronograma-gantt.md)
+
 ## Anexo III
 
 * [Ver Diagrama de Flujo de Generación de Rutinas](docs/diagrama-flujo-generacion-rutinas.md)
-
-
-
